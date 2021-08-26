@@ -3,6 +3,7 @@
 
 **Week 1**
 - [Computer Terminology](wk1/terminology.md)
+- [Operating Systems](wk1/operating_systems.md)
 
 <!-- **Week 15**
 - [Linked Tables](wk15/linked_tables.md)
@@ -49,5 +50,4 @@
 - [Cell References & Functions](wk3/excel_formulas.md)
 
 **Week 2**
-- [Operating Systems](wk2/operating_systems.md)
 - [Intro to Excel](wk2/intro_excel.md) -->
