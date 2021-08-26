@@ -1,7 +1,10 @@
 **Home**
 - [About](/)
 
-**Week 15**
+**Week 1**
+- [Computer Terminology](wk1/terminology.md)
+
+<!-- **Week 15**
 - [Linked Tables](wk15/linked_tables.md)
 
 **Week 14**
@@ -47,7 +50,4 @@
 
 **Week 2**
 - [Operating Systems](wk2/operating_systems.md)
-- [Intro to Excel](wk2/intro_excel.md)
-
-**Week 1**
-- [Computer Terminology](wk1/terminology.md)
+- [Intro to Excel](wk2/intro_excel.md) -->
