@@ -21,7 +21,7 @@ Let's focus on two types of software: **the operating system and application sof
 
 <br>
 
-<img src="assets/OS.png" style="width:600px;">
+![image-20210831145922417](assets/image-20210831145922417.png)
 
 <br>
 
@@ -33,7 +33,7 @@ Let's focus on two types of software: **the operating system and application sof
 
 <br>
 
-<img src="assets/image-20200901082708524.png" style="width=300px">
+![image-20210831145939465](assets/image-20210831145939465.png)
 
 <p align="center"  style="font-size:14px;font-style:italic;">Hosting relationship between Hardware and Software</p>
 
@@ -45,7 +45,7 @@ Every single program, image, video, document, etc, exists in your computers as f
 
 <br>
 
-<img src="assets/image-20200901092446198.png" style="width:500px">
+![image-20210831145953893](assets/image-20210831145953893.png)
 
 <br>
 
@@ -100,7 +100,7 @@ Compare this to the way you organize your notes and important documents at home
 
 <br>
 
-<img src="assets/gymOX6nZMy2L6-nYlDQbM-CjxqVEDChqoUj0SD3yo_PFozcQNfIRovBcjqA4rF0cEb5A7j2DPwkyP2SSCQdo4rVn8gQFODck_29mMitRbPlnfwP8D8iudwnGPcMcWw42G3YsnlTbue0.png" style="width:400px" />
+<img src="https://lh5.googleusercontent.com/gymOX6nZMy2L6-nYlDQbM-CjxqVEDChqoUj0SD3yo_PFozcQNfIRovBcjqA4rF0cEb5A7j2DPwkyP2SSCQdo4rVn8gQFODck_29mMitRbPlnfwP8D8iudwnGPcMcWw42G3YsnlTbue0"/>
 
 <br>
 
@@ -108,7 +108,7 @@ In Windows the file manager is called **File Explorer**.
 
 <br>
 
-<img src="assets/image-20200901095244476.png" style="width:600px">
+![image-20210831150014759](assets/image-20210831150014759.png)
 
 <br>
 
@@ -116,7 +116,7 @@ In Windows the file manager is called **File Explorer**.
 
 By default File Explorer hides the file extensions. 
 
-<img src="assets/image-20200901101016192.png" style="width:600px">
+![image-20210831150023138](assets/image-20210831150023138.png)
 
 <br>
 
@@ -160,11 +160,13 @@ Windows comes with a File Compressor program by default but you can choose to in
 
 Here are some examples of the File Compression programs and their respective file formats:
 
+
 | Name of Compression Program               | Compressed file type extension |                             Icon                             |
 | ----------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-| Windows Default Compressor                |              .zip              | ![image-20200901110933234](assets/image-20200901110933234.png) |
-| 7-Zip                                     |              .7z               | ![image-20200901110948479](assets/image-20200901110948479.png) |
+| Windows Default Compressor                |              .zip              | ![image-20200901110933234](assets/image-20200901110933234-163043401458014.png) |
+| 7-Zip                                     |              .7z               | ![image-20200901110948479](assets/image-20200901110948479-163043396893013.png) |
 | WinRAR (**not accepted for submissions)** |              .rar              | ![image-20200901110917754](assets/image-20200901110917754.png) |
+
 
 <br>
 
@@ -277,7 +279,7 @@ The instructions below use Microsoft Excel but the process is similar in any app
 
 ### Files On-Demand statuses
 
-1. Online Only: ![online only](assets/online-only.jpg)
+1. Online Only: ![online only](assets/online-only-163043392736910.jpg)
 
    * Not saved on your computer. 
 
@@ -285,13 +287,13 @@ The instructions below use Microsoft Excel but the process is similar in any app
 
    * Cannot be opened when you are not connected to the Internet.
 
-2. Locally available file: ![locally available ](assets/locally-available.jpg)
+2. Locally available file: ![locally available ](assets/locally-available-163043392736911.jpg)
 
    * Can be opened any time with or without internet access. 
 
    * If you want to change the status of a file to online only, right-click the file and select “Free up space".
 
-3. Always keep on this device:![keep on device](assets/keep-on-device.jpg)
+3. Always keep on this device:![keep on device](assets/keep-on-device-163043392736912.jpg)
 
    * Files are on your device and take up space
 
@@ -301,44 +303,59 @@ The instructions below use Microsoft Excel but the process is similar in any app
 
 ## Exercises
 
-### Exercise 1: Compress, de-compress & upload
-
-1. In Lea, you will find a compressed file. Please complete the following activity:
+1. **In Lea, you will find a compressed file. Please complete the following activity:**
 
    1. Download the file: *Practice exercise - Compressing Files*
+
    2. Decompress it in a location of your choice
+
    3. Organize the files into folders:
+
       - Create a main folder named *Practice1*
       - Create a folder for each file type
         - Ex.: Images, Videos, Documents
+
    4. Create and save an Excel file (empty)
+
       - New -> Save As
+
    5. Compress the main folder *Practice 1*
-   6. Upload the compressed folder to Lea
 
-### Exercise 2: Creating & moving folders
+   6. Upload the compressed folder to Lea\
 
-2. Folder creation and Moving
+      
+
+2. **Folder creation and Moving**
 
    * Create folder with name `folder1` on the desktop
+
    * Create folder with name `folder2` in documents
+
    * Create folder with name `folder3` in downloads
+
    * What is the location of `folder 1` from the root directory?
+
    * What is the location of `folder 2` from the root directory?
+
    * What is the location of `folder 3` from the root directory?
+
    * Move `folder 3` inside `folder 2`
+
    * Move `folder 2` inside `folder 1`
+
    * What is the location of `folder 1` from the root directory?
+
    * What is the location of `folder 2` from the root directory?
+
    * What is the location of `folder 3` from the root directory?
 
+     
 
-### Exercise 3: System properties
+3. **Check your system properties and write down the capacity of the processor and the capacity of the disk.**
 
-3. Check your system properties and write down the capacity of the processor and the capacity of the disk.
+   
 
-### Exercise 4: OneDrive
+4. **In lea you will find a `lab-onedrive.pdf` file.**
 
-4. In lea you will find a `lab-onedrive.pdf` file.
    1. Download the file.
    2. Complete all the steps.
