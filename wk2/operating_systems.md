@@ -21,7 +21,7 @@ Let's focus on two types of software: **the operating system and application sof
 
 <br>
 
-![image-20210831145922417](assets/image-20210831145922417.png)
+![table comparing 4 operating systems: windows, macOS, iOS, Android and Linux](assets/os-examples.png)
 
 <br>
 
@@ -33,7 +33,7 @@ Let's focus on two types of software: **the operating system and application sof
 
 <br>
 
-![image-20210831145939465](assets/image-20210831145939465.png)
+![concentric circles with hardware containing the OS which in turn contains the application software](assets/application-hosting-order.png)
 
 <p align="center"  style="font-size:14px;font-style:italic;">Hosting relationship between Hardware and Software</p>
 
@@ -45,7 +45,7 @@ Every single program, image, video, document, etc, exists in your computers as f
 
 <br>
 
-![image-20210831145953893](assets/image-20210831145953893.png)
+![Mine of Albert Einstein saying everthing is a file in your computer](assets/einstein-mime.png)
 
 <br>
 
@@ -55,7 +55,7 @@ In Windows, the root directories are assigned a letter and usually represent a S
 
 <br>
 
-![img](assets/3A-mIwIp0jHutvcl8n3BFJZY10CDS48hYrEGI575Fzf7jDVzqPwIk1F8z8d5oSnEEiK3Pc7zgxV_1KHWKQdx1oU_e0T09Ismt8rnuiwcr434iYN7KCRO9B6hyJFEZW7i_M6bT-UrbUM.png)
+![tree diagram showing the My Computer at the top connected to 4 different storage drives and multiple folders and files inside storage drive C ](assets/drive-tree-structure.png)
 
 <p align="center"  style="font-size:14px;font-style:italic;">Windows file system with four root directories (A:, C:, D:, F:)</p>
 
@@ -108,7 +108,7 @@ In Windows the file manager is called **File Explorer**.
 
 <br>
 
-![image-20210831150014759](assets/image-20210831150014759.png)
+![how to launch file explorer from the windows launch menu](assets/launching-file-explorer.png)
 
 <br>
 
@@ -116,7 +116,7 @@ In Windows the file manager is called **File Explorer**.
 
 By default File Explorer hides the file extensions. 
 
-![image-20210831150023138](assets/image-20210831150023138.png)
+![files in file explorer without file extensions](assets/where-are-file-extensions.png)
 
 <br>
 
@@ -131,9 +131,7 @@ Enabling file extensions is not necessary but it will allow you to better unders
 To enable the file extensions in File Explorer select the *View Menu* and click on the *File name extensions* check box.
 
 <br>
-
-<img src="assets/enable_extensions.jpg" style="width:600px">
-
+![view menu in file explorer to enable extensions](assets/enable_extensions.jpg)
 <br>
 
 ### File Properties
@@ -279,7 +277,7 @@ The instructions below use Microsoft Excel but the process is similar in any app
 
 ### Files On-Demand statuses
 
-1. Online Only: ![online only](assets/online-only-163043392736910.jpg)
+1. Online Only: ![online only](assets/online-only.jpg)
 
    * Not saved on your computer. 
 
@@ -287,13 +285,13 @@ The instructions below use Microsoft Excel but the process is similar in any app
 
    * Cannot be opened when you are not connected to the Internet.
 
-2. Locally available file: ![locally available ](assets/locally-available-163043392736911.jpg)
+2. Locally available file: ![locally available ](assets/locally-available.jpg)
 
    * Can be opened any time with or without internet access. 
 
    * If you want to change the status of a file to online only, right-click the file and select “Free up space".
 
-3. Always keep on this device:![keep on device](assets/keep-on-device-163043392736912.jpg)
+3. Always keep on this device:![keep on device](assets/keep-on-device.jpg)
 
    * Files are on your device and take up space
 
