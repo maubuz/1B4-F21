@@ -131,7 +131,9 @@ Enabling file extensions is not necessary but it will allow you to better unders
 To enable the file extensions in File Explorer select the *View Menu* and click on the *File name extensions* check box.
 
 <br>
+
 ![view menu in file explorer to enable extensions](assets/enable_extensions.jpg)
+
 <br>
 
 ### File Properties
