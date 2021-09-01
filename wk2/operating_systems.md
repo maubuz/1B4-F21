@@ -163,9 +163,9 @@ Here are some examples of the File Compression programs and their respective fil
 
 | Name of Compression Program               | Compressed file type extension |                             Icon                             |
 | ----------------------------------------- | :----------------------------: | :----------------------------------------------------------: |
-| Windows Default Compressor                |              .zip              | ![image-20200901110933234](assets/image-20200901110933234-163043401458014.png) |
-| 7-Zip                                     |              .7z               | ![image-20200901110948479](assets/image-20200901110948479-163043396893013.png) |
-| WinRAR (**not accepted for submissions)** |              .rar              | ![image-20200901110917754](assets/image-20200901110917754.png) |
+| Windows Default Compressor                |              .zip              | ![file icon for the dot zip extention](assets/zip-file-icon.png) |
+| 7-Zip                                     |              .7z               | ![file icon for the dot 7 zip extention](assets/7zip-file-icon.png) |
+| WinRAR (**not accepted for submissions)** |              .rar              | ![file icon for the dot rar extention](assets/rar-file-icon.png) |
 
 
 <br>
