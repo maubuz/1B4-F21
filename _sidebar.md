@@ -6,6 +6,7 @@
 
 **Week 2**
 - [Operating Systems](wk2/operating_systems.md)
+- [Intro to Word](wk2/intro-word.md)
 
 <!-- **Week 15**
 - [Linked Tables](wk15/linked_tables.md)
@@ -27,7 +28,7 @@
 - [Comments & Changes](wk11/comments_changes.md)
 
 **Week 10**
-- [Intro to Word](wk10/intro-word.md)
+
 - [Tabs, footnotes & Images](wk10/tables-footnotes-images.md)
 
 **Week 9**
