@@ -301,6 +301,18 @@ The instructions below use Microsoft Excel but the process is similar in any app
 
 <br>
 
+
+## Mac users
+
+Mac users can refer to the following videos in order to navigate their file system and manage compressed files:
+
+#### How to navigate the file system on a mac
+  - YouTube: [Understanding the File And Folder Structure Of Your Mac](https://www.youtube.com/watch?v=3TAEC-1YUZw) [11:26]
+#### How to compress files
+  - YouTube: [How To Zip and Unzip Files On Your Mac](https://www.youtube.com/watch?v=nkVrfMfkYdw) [5:45]
+
+<br>
+
 ## Exercises
 
 1. **In Lea, you will find a compressed file. Please complete the following activity:**
