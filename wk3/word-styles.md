@@ -77,9 +77,13 @@ To customize your existing table of contents:
 2.  Select **Custom table of contents**.
     
 3.  Use the settings to show, hide, and align page numbers, add or change the tab leader, set formats, and specify how many levels of headings to show.
+
+
     
 	![](assets/custom-table-of-contents.png)
     
+	
+	
     Available options:
     
     -   **Print Preview** displays how your table of contents looks in a document.
