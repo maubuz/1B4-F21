@@ -13,9 +13,15 @@ Formatting sections of a document manually is tedious and time consuming.
 -   Font Color
     
 -   Spacing (carriage returns are bad, use space after paragraph instead)
-    
-  ![](assets/paragraph-editing-menu.png)
-    
+
+<br>
+
+
+![](assets/paragraph-editing-menu.png)
+
+
+<br>
+
 
 **Copying existing styles**
 
@@ -81,9 +87,9 @@ To customize your existing table of contents:
 <br>
 
 ![](assets/custom-table-of-contents.png)
-    
-	
-	
+
+<br>
+
 Available options:
 - **Print Preview** displays how your table of contents looks in a document.
 
