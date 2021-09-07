@@ -78,39 +78,34 @@ To customize your existing table of contents:
     
 3.  Use the settings to show, hide, and align page numbers, add or change the tab leader, set formats, and specify how many levels of headings to show.
 
+<br>
 
-    
-	![](assets/custom-table-of-contents.png)
+![](assets/custom-table-of-contents.png)
     
 	
 	
-    Available options:
-    
-    -   **Print Preview** displays how your table of contents looks in a document.
+Available options:
+- **Print Preview** displays how your table of contents looks in a document.
+
+- **Web Preview** shows how your table of contents looks on the web.
+	-   By default, headings use hyperlinks rather than numbers. When you click an entry in the table of contents, it takes you to that heading,
+	-   If you uncheck the **Use hyperlinks instead of page numbers** box, you will have regular numbers with tab leaders.
+
+- **Show page numbers** toggles the page numbers and tab leader on or off.
+
+- **Right align page numbers** puts your page numbers along the right margin of the page. Uncheck the box to put the page numbers next to the headings.
+
+- **Tab leader** gives you a drop down to select different styles of leaders, such as dots (default), dashes, or a solid line.
+	- Select **(none)** to turn tab leaders off.
+
+- **Formats** lets you select an existing table of contents style.
+
+- **Show level** adjusts the number of heading levels (provided your document has multiple levels) visible in the table of contents.
         
-    -   **Web Preview** shows how your table of contents looks on the web.
-        
-        -   By default, headings use hyperlinks rather than numbers. When you click an entry in the table of contents, it takes you to that heading.
+- **Options** lets you choose the styles to use to build your table of contents, such as multiple headings, headers, footers, comment text, etc.    
+	- Heading choices are reflected back and forth with the Show level setting. For example, if you set 3 levels to show, headings 1, 2, and 3 will be checked under Available styles:
             
-        -   If you uncheck the **Use hyperlinks instead of page numbers** box, you will have regular numbers with tab leaders.
-            
-    -   **Show page numbers** toggles the page numbers and tab leader on or off.
-        
-    -   **Right align page numbers** puts your page numbers along the right margin of the page. Uncheck the box to put the page numbers next to the headings.
-        
-    -   **Tab leader** gives you a drop down to select different styles of leaders, such as dots (default), dashes, or a solid line.
-        
-        -   Select **(none)** to turn tab leaders off.
-            
-    -   **Formats** lets you select an existing table of contents style.
-        
-    -   **Show level** adjusts the number of heading levels (provided your document has multiple levels) visible in the table of contents.
-        
-    -   **Options** lets you choose the styles to use to build your table of contents, such as multiple headings, headers, footers, comment text, etc.
-        
-        -   Heading choices are reflected back and forth with the Show level setting. For example, if you set 3 levels to show, headings 1, 2, and 3 will be checked under Available styles:
-            
-    -   **Modify** sets the indentation and style used on the table of contents entries. Use **Modify** in the **Style** dialog to make finer changes.
+- **Modify** sets the indentation and style used on the table of contents entries. Use **Modify** in the **Style** dialog to make finer changes.
         
 
 As an excellent written resource with step by step instructions, see:
