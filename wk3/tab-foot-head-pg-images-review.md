@@ -187,6 +187,13 @@ As an excellent written resource with step by step instructions, see:
 
 <br>
 
+## Demonstration Article
+
+Access the article used to demonstrate the features covered in this lesson here:
+[Building Belonging: Pharma’s New Focus in DE&I](https://www.pharmexec.com/view/building-belonging-pharmas-new-focus-in-dei)
+
+<br>
+
 ## Exercises
 
 ### Formating Document Elements
