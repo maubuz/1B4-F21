@@ -189,7 +189,7 @@ As an excellent written resource with step by step instructions, see:
 
 ## Exercises
 
-### Exercise 1
+### Formating Document Elements
 
 Download the compressed folder `Formatting-document.zip` from Lea and extract its content. 
 
