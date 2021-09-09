@@ -3,6 +3,7 @@
 
 **Week 3**
 - [Quick Styles in Word](wk3/word-styles.md)
+- [Tabs, Foot-Head, Pg no, Images & Spelling](wk3/tab-foot-head-pg-images-review.md)
 
 **Week 2**
 - [Operating Systems](wk2/operating_systems.md)
