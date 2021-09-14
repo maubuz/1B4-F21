@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 4**
+- [Footnotes & Bibliography](wk4/footnotes-bibliography.md)
+
 **Week 3**
 - [Quick Styles in Word](wk3/word-styles.md)
 - [Tabs, Foot-Head, Pg no, Images & Spelling](wk3/tab-foot-head-pg-images-review.md)
