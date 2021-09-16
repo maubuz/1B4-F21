@@ -3,6 +3,7 @@
 
 **Week 4**
 - [Footnotes & Bibliography](wk4/footnotes-bibliography.md)
+- [Collaborative Editing](wk4/collaborative-editing.md)
 
 **Week 3**
 - [Quick Styles in Word](wk3/word-styles.md)
