@@ -27,7 +27,7 @@ In this course we will focus on using Excel, however, 90% of the functionality w
     
 	1. The name box: The **Name box** displays the **location**, or **name**, of a **selected cell**.
 	
-	![](assets/excel-namebox.png ':size=400')
+	![](assets/excel-namebox.png ':size=200')
    
 	2. The formula bar: In the **formula bar**, you can enter or edit **data**, a formula, or a **function** that will appear in a specific cell.
 
@@ -164,9 +164,9 @@ Go to the **Home** tab, click the **Number Format** drop-down menu in the **Numb
             
 -   When date is correctly formatted, the fill handle can be used to continue the dates through the column, so a different day appears in each cell.
 
-![](assets/excel-date-extension-before.png ':size=400')
+![](assets/excel-date-extension-before.png ':size=200')
 
-![](assets/excel-date-extension-after.png ':size=400')
+![](assets/excel-date-extension-after.png ':size=200')
 		
 -   Try entering the dates below into a spreadsheet and see if the date format is applied automatically:
             
@@ -195,7 +195,7 @@ The **Format Cells** dialog box will appear. From here, you can choose the desir
         
 Increase Decimal and Decrease Decimal: Allow you to control how many decimal places are displayed in a cell. These commands don't change the value of the cell; instead, they display the value to a set number of decimal places.
 
-![](assets/decimal-places.png ':size=300')
+![](assets/decimal-places.png ':size=200')
     
 
 ## Introduction to Formulas
@@ -223,7 +223,7 @@ Excel uses standard operators for formulas:
     
 -   Using cell references will ensure that your formulas are always accurate because you can change the value of referenced cells without having to rewrite the formula.
 
-	![](assets/cell-referencing.png ':size=300')
+	![](assets/cell-referencing.png ':size=200')
     
     -   When you press Enter, the formula calculates and displays the answer in cell A3
         
