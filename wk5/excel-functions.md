@@ -126,5 +126,5 @@
 
 ## Exercises
     
-1.  Download the `Wk5_practice.xlsx` excel file from lea and work on the spreadsheet.
+1.  Download the `Functions.xlsx` excel file from lea and work on the spreadsheet.
 
