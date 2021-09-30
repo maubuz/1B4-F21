@@ -106,4 +106,4 @@ To change the chart style, select the **desired style** from the **Chart styles*
 
 1.  Go to [GFC's lesson on charts](https://edu.gcfglobal.org/en/excel/charts/1/) and complete the challenge.
     
-2.  Download the `graphing_lab.xlsx` file from Lea and complete it.
+2.  Download the `graphing_lab.xlsx` file from Lea and create a graph that matches the image in each sheet.
