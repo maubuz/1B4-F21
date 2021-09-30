@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 6**
+- [Charts](wk6/Charts.md)
+
 **Week 5**
 - [Intro to Excel](wk5/intro-excel.md)
 - [Excel functions](wk5/excel-functions.md)
