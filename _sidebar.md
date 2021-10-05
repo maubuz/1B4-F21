@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 7**
+- [Trendlines](wk7/trendlines.md)
+
 **Week 6**
 - [Charts](wk6/Charts.md)
 
