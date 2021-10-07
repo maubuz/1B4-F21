@@ -2,6 +2,8 @@
 - [About](/)
 
 **Week 7**
+
+- [Standard Deviation](wk7/standard-deviation.md)
 - [Trendlines](wk7/trendlines.md)
 
 **Week 6**
