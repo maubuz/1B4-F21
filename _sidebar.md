@@ -1,6 +1,10 @@
 **Home**
 - [About](/)
 
+**Week 9**
+
+- [combo-charts](wk9/combo-charts.md)
+
 **Week 7**
 
 - [Standard Deviation](wk7/standard-deviation.md)
