@@ -52,12 +52,12 @@ If we tried to approximate the area of a small section of the diagram we would h
 
 In Excel we will calculate 𝚫x and 𝚫y and then multiply them together to get the area of each rectangle.
 
-**Exercises**
+## Exercises
 
--   Please download the file `AreaUnderCurve.xlsx` in Teams under week 9.
+Please download the file `AreaUnderCurve.xlsx` from Omnivox:
     
--   Calculate the AUC of the data in the `Trapezoid` sheet.
+1. Calculate the AUC of the data in the `Trapezoid` sheet.
     
--   Insert a line chart for the data in the `Rate of reaction` sheet.
+2. Insert a line chart for the data in the `Rate of reaction` sheet.
     
--   Calculate the AUC of the data in the `Rate of reaction` sheet.
+3. Calculate the AUC of the data in the `Rate of reaction` sheet.
