@@ -4,6 +4,7 @@
 **Week 9**
 
 - [combo-charts](wk9/combo-charts.md)
+- [area under curve](wk9/area-under-curve.md)
 
 **Week 7**
 
