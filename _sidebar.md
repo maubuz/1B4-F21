@@ -1,6 +1,10 @@
 **Home**
 - [About](/)
 
+**Week 11**
+
+- [Error bars](wk11/error-bars.md)
+
 **Week 9**
 
 - [combo-charts](wk9/combo-charts.md)
