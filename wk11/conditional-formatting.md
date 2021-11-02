@@ -2,6 +2,9 @@
 
 **Conditional formatting** provides a way to visualize data and make worksheets easier to understand.
 
+> For this section of the notes please refer to the following page:
+> GFC Global: [Conditional Formatting](https://edu.gcfglobal.org/en/excel/conditional-formatting/1/)
+
 Let's watch this [video](https://www.youtube.com/watch?time_continue=69&v=zfQ8uOBoIj8&feature=emb_logo) for a quick demo.
 
 #### To create a conditional formatting rule:
