@@ -4,6 +4,7 @@
 **Week 11**
 
 - [Error bars](wk11/error-bars.md)
+- [Conditional formatting](wk11/conditional-formatting.md)
 
 **Week 9**
 
