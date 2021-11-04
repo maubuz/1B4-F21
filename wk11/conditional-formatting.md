@@ -47,12 +47,12 @@ To use presets:
 
 Alternatively, Click on **Manage Rules** to edit or delete **individual** rules. This is useful if you have **multiple rules**.
 
-### **References**
+### References
 
 -   [Conditional Formatting](https://edu.gcfglobal.org/en/excel/conditional-formatting/1/)
     
 
-### **Exercises**
+### Exercises
 
 1.  Please go to this [link](https://edu.gcfglobal.org/en/excel/conditional-formatting/1/) and complete the challenge.
     
@@ -68,4 +68,12 @@ Alternatively, Click on **Manage Rules** to edit or delete **individual** rules.
 ![image-20201015112243142](assets/conditional-formatting-exercise-icons.png)
 
 3.  Make it so the grades that define the icon-set rules can be changed as cell values ?
+
+4. Complete the exercise at this [link](https://www.wiseowl.co.uk/excel/exercises/standard/conditional-formatting/2262/).
+
+5. Complete the exercise at this [link](https://www.wiseowl.co.uk/excel/exercises/standard/conditional-formatting/2260/).
+
+6. Complete the exercise at this [link](https://www.wiseowl.co.uk/excel/exercises/standard/conditional-formatting/4307/).
+
+   > You need to set the second value to the average formula and set type to formula
 
