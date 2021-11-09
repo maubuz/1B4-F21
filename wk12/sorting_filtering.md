@@ -40,7 +40,7 @@ When working with a lot of data in Excel, to find and/or replace specific inform
 
 When you're working with a lot of data, excel makes it possible to view data from different parts of your workbook with the **freeze** **panes** and **split** features.
 
-Let's watch this [video](https://www.youtube.com/watch?time_continue=257&v=zuhsUNBeNHw&feature=emb_logo) for a quick demo.
+> Let's watch this [video](https://www.youtube.com/watch?time_continue=257&v=zuhsUNBeNHw&feature=emb_logo) for a quick demo.
 
 #### To freeze the top row (row 1) or first column (column A):
 
@@ -173,7 +173,7 @@ In the animation below, notice how the selected range is the only thing being so
 
 **Filters** can be used to **narrow down** the data in your worksheet, allowing you to view a fraction of the information.
 
-Let's watch this [video](https://www.youtube.com/watch?time_continue=62&v=_OdsZR_rL1U&feature=emb_logo) for a quick demo.
+> Let's watch this [video](https://www.youtube.com/watch?time_continue=62&v=_OdsZR_rL1U&feature=emb_logo) for a quick demo.
 
 For filtering to work correctly, your worksheet should include a **header row**, which is used to identify the name of each column
 
