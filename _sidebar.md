@@ -1,11 +1,13 @@
 **Home**
 - [About](/)
 
+**Week 12**
+- [Sorting & Filtering](wk12/sorting_filtering.md)
+
 **Week 11**
 
 - [Error bars](wk11/error-bars.md)
 - [Conditional formatting](wk11/conditional-formatting.md)
-- [Sorting & Filtering](wk11/sorting_filtering.md)
 
 **Week 9**
 

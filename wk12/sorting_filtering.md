@@ -167,7 +167,7 @@ However, to do this, Excel makes some assumptions about how our spreadsheets are
 
 In the animation below, notice how the selected range is the only thing being sorted. The neighboring data that is related to those cells are not being sorted.
 
-![sorting_warning](assets/sorting_warning.gif)
+![sorting_warning](../wk12/assets/sorting_warning.gif)
 
 ## Filtering Data
 
