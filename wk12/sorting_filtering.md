@@ -232,8 +232,11 @@ Excel includes several **advanced** **filtering** **tools**, including **search*
     
 -   [Sorting Data](https://edu.gcfglobal.org/en/excel/sorting-data/1/)
     
+	> 🍎 For MAC users:
+	> In order to create custom lists, see section ***Create a custom list to sort by*** in the guide below:
+	> [Sort a list of data in Excel for Mac](https://support.microsoft.com/en-us/office/sort-a-list-of-data-in-excel-for-mac-3b0e62c1-ef88-4176-babb-ccf1cb1e6145)
+
 -   [Filtering Data](https://edu.gcfglobal.org/en/excel/filtering-data/1/)
-    
 
 ## Exercises
 

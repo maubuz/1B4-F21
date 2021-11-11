@@ -3,6 +3,7 @@
 
 **Week 12**
 - [Sorting & Filtering](wk12/sorting_filtering.md)
+- [Countif & Sumif](wk12/if_count.md)
 
 **Week 11**
 
