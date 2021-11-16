@@ -1,6 +1,10 @@
 **Home**
 - [About](/)
 
+**Week 13**
+- [Excel Tables](wk13/excel_tables.md)
+- [Array Formulas](wk13/array_formulas.md)
+
 **Week 12**
 - [Sorting & Filtering](wk12/sorting_filtering.md)
 - [Countif & Sumif](wk12/if_count.md)
