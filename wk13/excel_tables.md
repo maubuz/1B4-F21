@@ -13,7 +13,7 @@ At first glance, tables look like regular data in a spreadsheet, however, tables
 ## Creating a Table
 
 1. Click on **any cell** in your data
-2. Select *Home > Format as Table* ![Icon for creating tables](assets/tables-icon.png ':class=inlline-img')
+2. Select *Home > Format as Table* ![Icon for creating tables](assets/tables-icon.png ':class=inline-img')
 3. Choose a table style
 4. Verify that the correct range is selected and check *My table has headers* ![Dialogue to confirm table range](assets/tables-range-select.png ':class=inline-img')
 
