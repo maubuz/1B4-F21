@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 14**
+- [Histogram charts](wk14/histograms.md)
+
 **Week 13**
 - [Excel Tables](wk13/excel_tables.md)
 - [Array Formulas](wk13/array_formulas.md)
