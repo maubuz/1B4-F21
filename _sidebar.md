@@ -3,6 +3,7 @@
 
 **Week 14**
 - [Histogram charts](wk14/histograms.md)
+- [Regression Analysis](wk14/regression.md)
 
 **Week 13**
 - [Excel Tables](wk13/excel_tables.md)
