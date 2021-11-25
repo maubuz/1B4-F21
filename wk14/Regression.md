@@ -1,4 +1,4 @@
-# Regression
+# Regression Analysis
 
 Regression allows us to understand the relationships between one variable and a set of other variables.
 
