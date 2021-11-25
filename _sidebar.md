@@ -2,8 +2,8 @@
 - [About](/)
 
 **Week 14**
-- [Regression Analysis](wk14/regression.md)
 - [Histogram charts](wk14/histograms.md)
+- [Regression Analysis](wk14/Regression.md)
 
 **Week 13**
 - [Excel Tables](wk13/excel_tables.md)
