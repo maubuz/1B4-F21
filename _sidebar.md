@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 15**
+- [Passwords](wk15/passwords.md)
+
 **Week 14**
 - [Histogram charts](wk14/histograms.md)
 - [Regression Analysis](wk14/regression-analysis.md)
